@@ -26,8 +26,8 @@ If you have any specific questions or would like to know more about the work I'v
 
 If you wish to contact me regarding potential job opportunities, collaborations, or any questions related to this repository, you can reach me through the following channels:
 
-- Email: [your.email@example.com](mailto:ramorstem2022@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rodzamor/)
+- Email: [ramorstem2022@gmail.com](mailto:ramorstem2022@gmail.com)
+- LinkedIn: [Rodz Amor](https://www.linkedin.com/in/rodzamor/)
 
 ## Final Note
 
